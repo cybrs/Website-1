@@ -16,7 +16,7 @@ pip install -U pip
 pip install -U wheel
 ```
 
-## installation
+## installation and guide
 install package. one can find the releases [here](https://github.com/GreenClothaWay/Blog/tree/master/release) 
 ```
 pip install greenclothaway-<release_version>-py3-none-any.whl
